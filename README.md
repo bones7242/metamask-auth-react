@@ -1,4 +1,4 @@
-# react-metamask-login
+# metamask-auth (react)
 a basic react website that uses metamask to authorize users via a signed message signed client-side and sent to the server
 
 ### What is this repository for? ###
